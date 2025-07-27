@@ -547,7 +547,7 @@ Streamlit App - Batch Prediction - Get the High-probability subscribers
 In our demonstration with 100 previously unseen customers, our model identified 14 high-potential leads—clients with over 60% probability of subscribing to a term deposit. This means:
 - 86% reduction in unnecessary outreach
 - Focused attention on the most promising prospects
-- Significantly higher ROI on marketing efforts
+- Significantly higher ROI on marketing effortsreloa
 
 #### 📊 How It Works
 1. Upload your customer data CSV (matching our standard format)
@@ -699,5 +699,16 @@ This project showcased the power of supervised machine learning to improve marke
 - **Monitor Performance Drift**: Establish feedback pipelines and retraining schedules to handle changing data patterns.
 
 > The groundwork is set for scaled experimentation, responsible deployment, and continuous learning — turning predictive insights into sustainable business impact.
+
+---
+
+## Team Member Reflections
+
+- [Rehan Ahmed – Reflection Video](https://youtube.com/shorts/xRi2N9tZe-g?si=QDDnvYrU_wtrSlbJ)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
 
 ---

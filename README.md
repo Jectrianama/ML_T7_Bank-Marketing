@@ -523,7 +523,7 @@ Streamlit App - Prediction Results
 
 The application captures all the key customer features we identified during our analysis and provides immediate feedback on subscription probability. Users can adjust inputs and see how different customer characteristics affect the likelihood of term deposit subscription.
 
-### 🚀 Batch Prediction: Supercharge Your Campaign Efficiency
+### Batch Prediction: Supercharge Your Campaign Efficiency
 
 ![alt text](images/image-5.png)
 Streamlit App - Batch Prediction - Uploading new unseen customer list
@@ -531,7 +531,7 @@ Streamlit App - Batch Prediction - Uploading new unseen customer list
 
 Transform your marketing campaigns with our powerful batch prediction feature. Upload your customer dataset, and let our AI instantly identify your highest-potential leads.
 
-#### ✨ Key Features
+#### Key Features
 - **Instant Batch Processing**: Upload hundreds of customer profiles in one go
 - **Smart Lead Prioritization**: Automatically identifies high-probability subscribers (60%+ likelihood)
 
@@ -543,19 +543,19 @@ Streamlit App - Batch Prediction - Get the High-probability subscribers
 
 
 
-#### 💡 Real-World Impact
+#### Real-World Impact
 In our demonstration with 100 previously unseen customers, our model identified 14 high-potential leads—clients with over 60% probability of subscribing to a term deposit. This means:
 - 86% reduction in unnecessary outreach
 - Focused attention on the most promising prospects
 - Significantly higher ROI on marketing efforts
 
-#### 📊 How It Works
+#### How It Works
 1. Upload your customer data CSV (matching our standard format)
 2. Get instant visualization of your customer demographics
 3. Receive an actionable table of high-probability leads
 4. Export results and start your targeted campaign
 
-> 🎯 **Pro Tip**: Marketing teams can now pre-screen entire customer segments before launching campaigns, ensuring resources are invested where they'll generate the highest returns.
+> **Pro Tip**: Marketing teams can now pre-screen entire customer segments before launching campaigns, ensuring resources are invested where they'll generate the highest returns.
 
 ### Business Application and ROI Optimization
 
@@ -699,5 +699,16 @@ This project showcased the power of supervised machine learning to improve marke
 - **Monitor Performance Drift**: Establish feedback pipelines and retraining schedules to handle changing data patterns.
 
 > The groundwork is set for scaled experimentation, responsible deployment, and continuous learning — turning predictive insights into sustainable business impact.
+
+---
+
+## Team Member Reflection Videos
+
+- [Rehan Ahmed – Reflection Video](https://youtube.com/shorts/xRi2N9tZe-g?si=QDDnvYrU_wtrSlbJ)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Jenniffer – Reflection Video](https://www.youtube.com/watch?v=L0Djcetnnmo)
 
 ---

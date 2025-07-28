@@ -706,7 +706,7 @@ This project showcased the power of supervised machine learning to improve marke
 
 - [Rehan Ahmed – Reflection Video](https://youtube.com/shorts/xRi2N9tZe-g?si=QDDnvYrU_wtrSlbJ)
 - [Darling Oscanoa – Reflection Video](https://youtu.be/pM3t1Cxhq8I)
-- Rituparna Bera - Reflection Video https://www.youtube.com/watch?v=80upaeI8Uko
+- [Rituparna Bera - Reflection Video ] ( https://www.youtube.com/watch?v=80upaeI8Uko)
 - [Your Name – Reflection Video](https://your-link-here.com)
 - [Your Name – Reflection Video](https://your-link-here.com)
 - [Your Name – Reflection Video](https://your-link-here.com)

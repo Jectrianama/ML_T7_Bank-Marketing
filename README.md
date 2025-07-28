@@ -708,6 +708,6 @@ This project showcased the power of supervised machine learning to improve marke
 - [Darling Oscanoa](https://youtu.be/pM3t1Cxhq8I)
 - [Feihong Nan](https://youtu.be/wxAx7c0y3NQ)
 - [Rituparna Bera](https://www.youtube.com/watch?v=80upaeI8Uko)
-- [Jenniffer](https://www.youtube.com/watch?v=L0Djcetnnmo)
+- [Jenniffer Carolina, Triana Martinez](https://www.youtube.com/watch?v=L0Djcetnnmo)
 
 ---

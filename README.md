@@ -705,11 +705,18 @@ This project showcased the power of supervised machine learning to improve marke
 ## Team Member Reflection Videos
 
 
-- [Rehan Ahmed](https://youtube.com/shorts/xRi2N9tZe-g?si=QDDnvYrU_wtrSlbJ)
-- [Darling Oscanoa](https://youtu.be/pM3t1Cxhq8I)
-- [Feihong Nan](https://youtu.be/wxAx7c0y3NQ)
-- [Rituparna Bera](https://www.youtube.com/watch?v=80upaeI8Uko)
-- [Jenniffer Carolina, Triana Martinez](https://www.youtube.com/watch?v=L0Djcetnnmo)
+- [Rehan Ahmed – Reflection Video](https://youtube.com/shorts/xRi2N9tZe-g?si=QDDnvYrU_wtrSlbJ)
+- [Darling Oscanoa – Reflection Video](https://youtu.be/pM3t1Cxhq8I)
+
+- [Rituparna Bera - Reflection Video ] ( https://www.youtube.com/watch?v=80upaeI8Uko)
+- [Your Name – Reflection Video](https://your-link-here.com)
+
+- Rituparna Bera - Reflection Video https://www.youtube.com/watch?v=80upaeI8Uko
+- [Feihong Nan – Reflection Video](https://youtu.be/wxAx7c0y3NQ)
+
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Your Name – Reflection Video](https://your-link-here.com)
+- [Jenniffer – Reflection Video](https://www.youtube.com/watch?v=L0Djcetnnmo)
 
 
 ---
